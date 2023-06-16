@@ -5,7 +5,7 @@ A console-based application for managing bank accounts.
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots](#create-account-screenshot)
+- [Screenshots](#screenshot)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 
