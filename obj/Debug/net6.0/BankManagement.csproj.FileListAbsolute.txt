@@ -1,0 +1,15 @@
+D:\C# Projects\Bank_Management_System\BankManagement\bin\Debug\net6.0\BankManagement.exe
+D:\C# Projects\Bank_Management_System\BankManagement\bin\Debug\net6.0\BankManagement.deps.json
+D:\C# Projects\Bank_Management_System\BankManagement\bin\Debug\net6.0\BankManagement.runtimeconfig.json
+D:\C# Projects\Bank_Management_System\BankManagement\bin\Debug\net6.0\BankManagement.dll
+D:\C# Projects\Bank_Management_System\BankManagement\bin\Debug\net6.0\BankManagement.pdb
+D:\C# Projects\Bank_Management_System\BankManagement\obj\Debug\net6.0\BankManagement.csproj.AssemblyReference.cache
+D:\C# Projects\Bank_Management_System\BankManagement\obj\Debug\net6.0\BankManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Bank_Management_System\BankManagement\obj\Debug\net6.0\BankManagement.AssemblyInfoInputs.cache
+D:\C# Projects\Bank_Management_System\BankManagement\obj\Debug\net6.0\BankManagement.AssemblyInfo.cs
+D:\C# Projects\Bank_Management_System\BankManagement\obj\Debug\net6.0\BankManagement.csproj.CoreCompileInputs.cache
+D:\C# Projects\Bank_Management_System\BankManagement\obj\Debug\net6.0\BankManagement.dll
+D:\C# Projects\Bank_Management_System\BankManagement\obj\Debug\net6.0\refint\BankManagement.dll
+D:\C# Projects\Bank_Management_System\BankManagement\obj\Debug\net6.0\BankManagement.pdb
+D:\C# Projects\Bank_Management_System\BankManagement\obj\Debug\net6.0\BankManagement.genruntimeconfig.cache
+D:\C# Projects\Bank_Management_System\BankManagement\obj\Debug\net6.0\ref\BankManagement.dll
