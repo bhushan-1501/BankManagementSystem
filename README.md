@@ -5,6 +5,7 @@ A console-based application for managing bank accounts.
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 
@@ -20,6 +21,10 @@ The Bank Management System is a console application that allows users to create 
 - Update account holder's name for a specific account.
 - View all existing accounts and their details.
 - View all transaction history for the bank.
+
+## Screenshot of Start:
+![image](https://github.com/bhushan-1501/BankManagementSystem/assets/96251503/9aab8d97-c970-4033-bed1-d5c9ca3fc2f4)
+
 
 ## Getting Started
 
